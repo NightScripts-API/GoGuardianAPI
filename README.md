@@ -1,18 +1,18 @@
 # Version
 **1.0.2**
 # GoGuardianAPI
-A Go Guardian Bypasser
-Cracked to Balance your Rights with GoGuardian
-Balanced IDH Script
+A Go Guardian Bypasser //
+Cracked to Balance your Rights with GoGuardian //
+Balanced IDH Script 
 # Updates
 GoGuardianAPI is Constantly Updated
 If the API isn't Auto-Updated You Can Find It Here.
 # Features
-Proxy Mode - Allows to go on Proxy Links as disguise.
-http Fowarding - Foward links from http Unnoticeable for GoGuardian
-API Fetching - API Fetches New URLS 
-SmartZones - Enables Tracing From Multi-Threads From RPM 
-Fast URL - Fowards URL to the fastest and safest end Point
+Proxy Mode - Allows to go on Proxy Links as disguise //
+http Fowarding - Foward links from http Unnoticeable for GoGuardian //
+API Fetching - API Fetches New URLS //
+SmartZones - Enables Tracing From Multi-Threads From RPM //
+Fast URL - Fowards URL to the fastest and safest end Point //
 Chrome Notch - Fetches Exstention and Forces Punish
 # Backup Code SPM
 ```
@@ -28,6 +28,6 @@ https://googledownloadmanager.godaddysites.com/goguardianapi
 # Other API's
 Sorry None Yet!
 # Contributors
-Jack Maloon, Caleb #### aka. **NightScripts**, Dyaln Rodge, Corey Pellback, Danielle Matthews, **Paradex**, Mavy Norwhalm, Matthew Rodgern
-**Thanks for using GoGuardianAPI**
+Jack Maloon, Caleb #### aka. **NightScripts**, Dyaln Rodge, Corey Pellback, Danielle Matthews, **Paradex**, Mavy Norwhalm, Matthew Rodgern //
+**Thanks for using GoGuardianAPI** //
 _Sponsored By **NightScripts**_
