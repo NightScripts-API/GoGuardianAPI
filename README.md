@@ -20,6 +20,7 @@ var 2hg []
 set fetchurl;
 fetchurl = 2hg.SetType(pushURL_) * google.Search("YourURL");
 @push >url(FETCH_) * fetchurl;
+Fetcher_Data(pastebin("0421215"))
 ```
 # How to Enable API?
 Download the Newest API File And Use https://script.google.com/ And Paste in api.gs
