@@ -1,5 +1,7 @@
 # Version
 **1.0.2**
+# Creator Note
+For my users Using this, I don't recommend Editing the code i created a SQL Dastabase, So it will only run off my PC. Thanks For Everyone Using The GoAPI. What i can say is SpecialEdHead...
 # GoGuardianAPI
 A Go Guardian Bypasser //
 Cracked to Balance your Rights with GoGuardian //
